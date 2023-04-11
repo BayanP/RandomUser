@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Miss",
+                "first": "Helen",
+                "last": "Hagerup"
+            },
+            "location": {
+                "street": {
+                    "number": 8988,
+                    "name": "Østbyfaret"
+                },
+                "city": "Eidsvik",
+                "state": "Sør-Trøndelag",
+                "country": "Norway",
+                "postcode": "3230",
+                "coordinates": {
+                    "latitude": "40.8658",
+                    "longitude": "33.1445"
+                },
+                "timezone": {
+                    "offset": "+7:00",
+                    "description": "Bangkok, Hanoi, Jakarta"
+                }
+            },
+            "email": "helen.hagerup@example.com",
+            "login": {
+                "uuid": "644def2b-79c3-4cef-9be9-d6834f28906a",
+                "username": "organicsnake446",
+                "password": "terminal",
+                "salt": "JWlW58wT",
+                "md5": "30d5b96549045a1a7a754163ef90d10f",
+                "sha1": "0095fe0f6c667499cb1bf2ef7f60d2fc445b8997",
+                "sha256": "dbc916c1a82b283dce49ef720b24d43a5e8feaca7212fd6f0f077be4a6fed021"
+            },
+            "dob": {
+                "date": "1974-10-08T09:02:02.832Z",
+                "age": 48
+            },
+            "registered": {
+                "date": "2006-12-24T14:49:51.173Z",
+                "age": 16
+            },
+            "phone": "81550468",
+            "cell": "40539108",
+            "id": {
+                "name": "FN",
+                "value": "08107446258"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/27.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/27.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/27.jpg"
+            },
+            "nat": "NO"
+        }
+    ],
+    "info": {
+        "seed": "8f68bce4a84c04f6",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
